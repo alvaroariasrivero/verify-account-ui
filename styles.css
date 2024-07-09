@@ -41,6 +41,7 @@ body {
     margin: 1%;
     text-align: center;
     font-weight: 300;
+    appearance: textfield;
     -moz-appearance: textfield;
 }
 
